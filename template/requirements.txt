@@ -1,0 +1,2 @@
+# specific matplotlib
+matplotlib>=1.4.3
